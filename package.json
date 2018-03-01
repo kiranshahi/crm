@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kiranshahi/crm/issues"
   },
-  "homepage": "https://github.com/kiranshahi/crm#readme"
+  "homepage": "https://github.com/kiranshahi/crm#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
